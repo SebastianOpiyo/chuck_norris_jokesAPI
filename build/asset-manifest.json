@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chuck_norris_jokesAPI/static/css/main.a617e044.chunk.css",
+    "main.js": "/chuck_norris_jokesAPI/static/js/main.77b8b2b5.chunk.js",
+    "main.js.map": "/chuck_norris_jokesAPI/static/js/main.77b8b2b5.chunk.js.map",
+    "runtime-main.js": "/chuck_norris_jokesAPI/static/js/runtime-main.81ca5d02.js",
+    "runtime-main.js.map": "/chuck_norris_jokesAPI/static/js/runtime-main.81ca5d02.js.map",
+    "static/js/2.4a9b748c.chunk.js": "/chuck_norris_jokesAPI/static/js/2.4a9b748c.chunk.js",
+    "static/js/2.4a9b748c.chunk.js.map": "/chuck_norris_jokesAPI/static/js/2.4a9b748c.chunk.js.map",
+    "static/js/3.0557f3e6.chunk.js": "/chuck_norris_jokesAPI/static/js/3.0557f3e6.chunk.js",
+    "static/js/3.0557f3e6.chunk.js.map": "/chuck_norris_jokesAPI/static/js/3.0557f3e6.chunk.js.map",
+    "index.html": "/chuck_norris_jokesAPI/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/chuck_norris_jokesAPI/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4a9b748c.chunk.js.LICENSE.txt": "/chuck_norris_jokesAPI/static/js/2.4a9b748c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/chuck_norris_jokesAPI/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81ca5d02.js",
+    "static/js/2.4a9b748c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.77b8b2b5.chunk.js"
+  ]
+}
